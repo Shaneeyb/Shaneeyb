@@ -1,6 +1,6 @@
-# Aloha everyone, I'm Shane! 👋 
+# Aloha , I'm Shane! 👋 
 
-## I'm a techie, star wars nerd, and snowboarder who ironically lives on the island on Oahu, Hawaii!!
+## I'm a techie, Star Wars nerd, and snowboarder who ironically lives on the island on Oahu, Hawaii!!
 
 - 🌱 I’m currently perfecting React.js/JavaScript/HTML/CSS
 - 👯 I’m looking to collaborate with other passionate people
@@ -36,15 +36,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1.Kingdom Man https://github.com/Shaneeyb/Kingdom-Man)
-2.Spork (https://github.com/biggmackk17/SPORK)
-3.Nucamp Server (https://github.com/Shaneeyb/NucampsiteServer)
-4.Nucamp React (https://github.com/mongodb-developer/mongodb-ecommerce)
+- Kingdom Man https://github.com/Shaneeyb/Kingdom-Man)
+- Spork (https://github.com/biggmackk17/SPORK)
+- Nucamp Server (https://github.com/Shaneeyb/NucampsiteServer)
+- Nucamp React (https://github.com/mongodb-developer/mongodb-ecommerce)
 <!--END_SECTION:activity-->
 
 </details>
 
-## Thanks for checking out my Github! Spread the aloha spirit by saying Hi!
+## Thanks for checking out my Github! Don't be afraid to say Hi!
 
 - 👯 ShaneBurkeWork@gmail.com
 
