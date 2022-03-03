@@ -35,8 +35,8 @@
 ---
 <br />
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+
+  <summary> Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 - [Kingdom Man](https://github.com/Shaneeyb/Kingdom-Man)
@@ -45,11 +45,11 @@
 - [Nucamp React](https://github.com/mongodb-developer/mongodb-ecommerce)
 <!--END_SECTION:activity-->
 
-</details>
+
 <br />
 
 
-## Thanks for checking out my Github! Don't be afraid to say Hi!
+## Thanks for checking out my Github.  Don't be afraid to say Hi! 
 
 👯 ShaneBurkeWork@gmail.com
 
