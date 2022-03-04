@@ -36,7 +36,7 @@
 <br />
 
 
-  <summary> Recent GitHub Activity</summary>
+  Recent GitHub Activity
   
 <!--START_SECTION:activity-->
 - [Kingdom Man](https://github.com/Shaneeyb/Kingdom-Man)
